@@ -1,6 +1,3 @@
 hai, this is fawas
-
-
-
-
 good morning
+show rebase example
